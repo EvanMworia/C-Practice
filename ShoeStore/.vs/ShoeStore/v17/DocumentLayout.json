@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\database\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\database\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\models\\addshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\models\\addshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\services\\iservices\\ishoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\services\\iservices\\ishoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|c:\\users\\dev.ans\\source\\repos\\shoestore\\shoestore\\services\\shoeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91BE73A-1A29-4F3D-ACE4-B6F68207DEBD}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\services\\shoeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoeService.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Services\\ShoeService.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Services\\ShoeService.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Services\\ShoeService.cs",
+              "RelativeToolTip": "ShoeStore\\Services\\ShoeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:23:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShoes.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Services\\IServices\\IShoes.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Services\\IServices\\IShoes.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Services\\IServices\\IShoes.cs",
+              "RelativeToolTip": "ShoeStore\\Services\\IServices\\IShoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:08:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddShoe.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Models\\AddShoe.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Models\\AddShoe.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Models\\AddShoe.cs",
+              "RelativeToolTip": "ShoeStore\\Models\\AddShoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T12:29:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Models\\Shoe.cs",
+              "RelativeToolTip": "ShoeStore\\Models\\Shoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T12:14:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\database\\db.json",
+              "RelativeDocumentMoniker": "ShoeStore\\database\\db.json",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\database\\db.json",
+              "RelativeToolTip": "ShoeStore\\database\\db.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-30T12:10:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoeStore",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\ShoeStore.csproj",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.csproj",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\ShoeStore.csproj",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-30T12:08:32.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ShoeStore\\ShoeStore\\Program.cs",
+              "RelativeToolTip": "ShoeStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T11:58:26.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

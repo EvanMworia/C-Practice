@@ -1,0 +1,12 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Yeezy350",
+      "description": "Stylish shoes",
+      "brand": "Yeezus ",
+      "price": 1500
+    }
+  ]
+
+}
